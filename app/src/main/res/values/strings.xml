@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MusicWiki</string>
+    <string name="musicwiki">musicwiki</string>
+    <string name="welcome">Welcome!</string>
+    <string name="choose_a_genre_to_start_with">Choose a genre to start with</string>
+    <string name="rock">Rock</string>
+    <string name="text">Rock</string>
+    <string name="todo">TODO</string>
+    <string name="rock_music_is_characterized_by_its_use_of_electric_instruments_and_strong_beat_it_emerged_in_the_1950s_and_1960s_and_has_since_influenced_various_sub_genres_such_as_classic_rock_heavy_metal_punk_rock_and_alternative_rock_some_of_the_most_iconic_rock_bands_include_the_beatles_led_zeppelin_pink_floyd_and_the_rolling_stones_rock_music_has_a_significant_cultural_impact_and_continues_to_be_popular_among_fans_of_all_ages">Rock music is characterized by its use of electric instruments and strong beat. It emerged in the 1950s and 1960s and has since influenced various sub-genres such as classic rock, heavy metal, punk rock, and alternative rock. Some of the most iconic rock bands include The Beatles, Led Zeppelin, Pink Floyd, and The Rolling Stones. Rock music has a significant cultural impact and continues to be popular among fans of all ages.</string>
+    <string name="tab_layout_description">tab_layout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Artists">artist</string>
+    <string name="tenacious_d">Tenacious D</string>
+    <string name="ColdPlay">coldplay</string>
+    <string name="_385k">385k</string>
+    <string name="_357k">357k</string>
+    <string name="playcount">PlayCount</string>
+    <string name="followers">Followers</string>
+    <string name="top_tracks">Top Tracks</string>
+    <string name="viva_la_vida">viva la vida</string>
+    <string name="coldplay">coldplay</string>
+    <string name="top_album">top_album</string>
+    <string name="topalbum">Top Album</string>
+    <string name="a_rush_of_blood">A rush of blood</string>
+</resources>
