@@ -15,5 +15,4 @@
         tools:listitem="@layout/row_item_track"
         app:layout_constraintTop_toTopOf="parent"/>
 
-
 </FrameLayout>
